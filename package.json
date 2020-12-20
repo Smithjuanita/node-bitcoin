@@ -1,7 +1,7 @@
 {
-  "name": "bitcoin",
+  "name": "@mempool/bitcoin",
   "description": "Communicate with bitcoind via JSON-RPC",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "main": "lib/index.js",
   "keywords": [
     "bitcoin",
@@ -20,7 +20,7 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/freewil/node-bitcoin.git"
+    "url": "git://github.com/mempool/node-bitcoin.git"
   },
   "engines": {
     "node": ">= 0.10.0"
@@ -30,9 +30,9 @@
     "test": "make test"
   },
   "bugs": {
-    "url": "https://github.com/freewil/node-bitcoin/issues"
+    "url": "https://github.com/mempool/node-bitcoin/issues"
   },
-  "homepage": "https://github.com/freewil/node-bitcoin#readme",
+  "homepage": "https://github.com/mempool/node-bitcoin#readme",
   "directories": {
     "test": "test"
   },
